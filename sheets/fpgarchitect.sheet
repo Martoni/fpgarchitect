@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>fpgarchitect components</name>
+  <description>fpgarchitect components</description>
+  <contents>
+    <object name="martoni - first shape">
+     <description>testing chape</description>
+    </object>
+    <object name="fpgarchitect - output">
+     <description>Output node</description>
+    </object>
+   </contents>
+</sheet>
