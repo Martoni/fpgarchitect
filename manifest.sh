@@ -1,2 +1,2 @@
-SHAPES="fork.xpm output.xpm output.shape testing.shape"
+SHAPES="output.xpm output.shape input.xpm input.shape"
 SHEETS="fpgarchitect.sheet"

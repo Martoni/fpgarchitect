@@ -3,11 +3,12 @@
   <name>fpgarchitect components</name>
   <description>fpgarchitect components</description>
   <contents>
-    <object name="martoni - first shape">
-     <description>testing chape</description>
-    </object>
     <object name="fpgarchitect - output">
      <description>Output node</description>
     </object>
+    <object name="fpgarchitect - input">
+     <description>Input node</description>
+    </object>
+
    </contents>
 </sheet>

@@ -5,28 +5,24 @@
     <name>fpgarchitect - output</name>
     <icon>output.xpm</icon>
     <connections>
-        <point x="2" y="0"/>
-        <point x="6" y="-4"/>
-        <point x="6" y="4"/>
+        <point x="0" y="0"/>
     </connections>
 
     <aspectratio type="fixed"/>
+    <textbox x1="-0.5" y1="0" x2="2" y2="0.5" />
 
-    <textbox x1="4" y1="-3" x2="12" y2="3" />
 
 
     <svg:svg>
-        <svg:line x1="0" y1="0" x2="3" y2="0" />
-        <svg:line x1="3" y1="-3" x2="3" y2="3" />
-        <svg:line x1="3" y1="-2" x2="6" y2="-4" />
-        <svg:line x1="3" y1="2" x2="6" y2="4" />
-
-        <svg:polyline points="5,4 6,4 5.6154,3.0769" />
+        <svg:line x1="0" y1="-1" x2="2" y2="-1" />
+        <svg:line x1="0"  y1="1" x2="2" y2="1" />
+        <svg:line x1="0"  y1="1" x2="0" y2="-1" />
+        <svg:line x1="2"  y1="-1" x2="3" y2="0" />
+        <svg:line x1="2"  y1="1" x2="3" y2="0" />
     </svg:svg>
+
     <ext_attributes>
-        <ext_attribute name="Integer" type="int" />
-        <ext_attribute name="String" type="string" />
-        <ext_attribute name="Float" type="real" />
+        <ext_attribute name="output" type="std_logic" />
     </ext_attributes>
 
 </shape>
